@@ -1,0 +1,6 @@
+{
+  "name": "SSC CGL 2026 Tier-I Mock Exam & Analysis",
+  "description": "Realistic SSC CGL 2026 Tier-I simulation with Testbook and TCS CBT interface, bilingual Hindi/English reading, digital rough scratchpad, and multi-attempt performance tracking.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
